@@ -1,0 +1,1 @@
+Slot Machine Game: The user will have the option to choose one row, two rows, or three rows in order to win the game. The user can continue gambling until they no longer have any money or wish to quit playing. 
